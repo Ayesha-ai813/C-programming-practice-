@@ -1,2 +1,4 @@
 # C-programming-practice-
-My C practice as a 1st year BE CS student 
+Hello! I'm a 1st year BE CS student 
+This repository contains my C programming practice and beginner project 
+
